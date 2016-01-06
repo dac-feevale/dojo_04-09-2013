@@ -43,6 +43,7 @@ public class bino {
 
 	public  int testaTamanho() {
 		totalchar = anagrama.length();
+		totalchar = anagrama.length();
 		return totalchar;
 	}	
 
